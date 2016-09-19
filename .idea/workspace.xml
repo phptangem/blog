@@ -21,52 +21,12 @@
     <favorites_list name="laravel-v5.2.15" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Kernel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+    <leaf>
+      <file leaf-file-name="050684464d167ec8e3e9a8a8496aee891d93a38c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/storage/framework/sessions/050684464d167ec8e3e9a8a8496aee891d93a38c">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.25">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7116279">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthenticatesAndRegistersUsers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthenticatesUsers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <caret line="0" column="80" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -74,11 +34,18 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/config/theme.php" />
+        <option value="$PROJECT_DIR$/resources/views/themes/clean-blog/pages/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php" />
+        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
       </list>
     </option>
   </component>
@@ -99,8 +66,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -127,7 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -143,6 +109,172 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sessions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clean-blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel-v5.2.15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -229,6 +361,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,6 +369,11 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\github\blog" />
+    </key>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -251,11 +389,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3527299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2678832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -263,6 +402,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76123595" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -292,8 +440,94 @@
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <marker date="1474296322805" expanded="false" signature="49:221" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="262:2373" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="271:706" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="775:866" placeholder=" Where to redirect users after login / registration. ..." />
+            <marker date="1474296322805" expanded="true" signature="964:1053" placeholder=" Create a new authentication controller instance. ..." />
+            <marker date="1474296322805" expanded="true" signature="1089:1333" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="1388:1573" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="1435:1505" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="1581:1741" placeholder=" Get a validator for an incoming registration request. ..." />
+            <marker date="1474296322805" expanded="true" signature="1789:2011" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="1827:2003" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="1835:2002" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="2020:2143" placeholder=" Create a new user instance after a valid registration. ..." />
+            <marker date="1474296322805" expanded="true" signature="2188:2371" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="2223:2363" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="2224:2362" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <marker date="1474291788243" expanded="false" signature="50:148" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="174:5901" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="209:303" placeholder=" Show the application login form. ..." />
+            <marker date="1474291788243" expanded="true" signature="336:387" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="396:490" placeholder=" Show the application login form. ..." />
+            <marker date="1474291788243" expanded="true" signature="528:770" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="686:727" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="779:933" placeholder=" Handle a login request to the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="983:1034" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="1043:1197" placeholder=" Handle a login request to the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="1243:2482" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="1695:1809" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="1964:2049" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="2355:2417" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="2491:2614" placeholder=" Validate the user login request. ..." />
+            <marker date="1474291788243" expanded="true" signature="2671:2807" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="2702:2799" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="2713:2798" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="2816:3011" placeholder=" Send the response after the user was authenticated. ..." />
+            <marker date="1474291788243" expanded="true" signature="3093:3406" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="3125:3183" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3238:3338" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3415:3565" placeholder=" Get the failed login response instance. ..." />
+            <marker date="1474291788243" expanded="true" signature="3632:3871" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="3697:3747" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3774:3863" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3775:3862" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3880:3952" placeholder=" Get the failed login message. ..." />
+            <marker date="1474291788243" expanded="true" signature="4001:4161" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="4170:4320" placeholder=" Get the needed authorization credentials from the request. ..." />
+            <marker date="1474291788243" expanded="true" signature="4378:4457" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="4466:4564" placeholder=" Log the user out of the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="4598:4642" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="4651:4749" placeholder=" Log the user out of the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="4780:4950" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="4959:5018" placeholder=" Get the guest middleware for the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="5058:5158" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="5167:5262" placeholder=" Get the login username to be used by the controller. ..." />
+            <marker date="1474291788243" expanded="true" signature="5300:5391" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="5400:5499" placeholder=" Determine if the class is using the ThrottlesLogins trait. ..." />
+            <marker date="1474291788243" expanded="true" signature="5554:5677" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="5585:5669" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="5686:5781" placeholder=" Get the guard to be used during authentication. ..." />
+            <marker date="1474291788243" expanded="true" signature="5817:5899" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -333,6 +567,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -351,14 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.25">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.5">
@@ -367,18 +601,524 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1083815">
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+          <folding>
+            <marker date="1474293004959" expanded="true" signature="14:106" placeholder="..." />
+            <marker date="1474293004959" expanded="true" signature="31:103" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33236995">
+          <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+          <folding>
+            <marker date="1474291788417" expanded="false" signature="42:687" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="730:36038" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="760:863" placeholder=" The event dispatcher instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="897:989" placeholder=" The IoC container instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="1026:1125" placeholder=" The route collection instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="1159:1258" placeholder=" The currently dispatched route instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="1293:1390" placeholder=" The request currently being dispatched. ..." />
+            <marker date="1474291788417" expanded="true" signature="1432:1514" placeholder=" All of the short-hand keys for middlewares. ..." />
+            <marker date="1474291788417" expanded="true" signature="1557:1625" placeholder=" All of the middleware groups. ..." />
+            <marker date="1474291788417" expanded="true" signature="1674:1748" placeholder=" The registered route value binders. ..." />
+            <marker date="1474291788417" expanded="true" signature="1788:1869" placeholder=" The globally available parameter patterns. ..." />
+            <marker date="1474291788417" expanded="true" signature="1910:1981" placeholder=" The route group attribute stack. ..." />
+            <marker date="1474291788417" expanded="true" signature="2024:2104" placeholder=" All of the verbs supported by the router. ..." />
+            <marker date="1474291788417" expanded="true" signature="2204:2397" placeholder=" Create a new Router instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="2480:2724" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="2642:2716" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="2669:2715" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="2733:2915" placeholder=" Register a new GET route with the router. ..." />
+            <marker date="1474291788417" expanded="true" signature="2963:3039" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="3048:3231" placeholder=" Register a new POST route with the router. ..." />
+            <marker date="1474291788417" expanded="true" signature="3280:3347" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="3356:3538" placeholder=" Register a new PUT route with the router. ..." />
+            <marker date="1474291788417" expanded="true" signature="3586:3652" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="3661:3845" placeholder=" Register a new PATCH route with the router. ..." />
+            <marker date="1474291788417" expanded="true" signature="3895:3963" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="3972:4157" placeholder=" Register a new DELETE route with the router. ..." />
+            <marker date="1474291788417" expanded="true" signature="4208:4277" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="4286:4472" placeholder=" Register a new OPTIONS route with the router. ..." />
+            <marker date="1474291788417" expanded="true" signature="4524:4594" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="4603:4789" placeholder=" Register a new route responding to all verbs. ..." />
+            <marker date="1474291788417" expanded="true" signature="4837:4973" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="4982:5203" placeholder=" Register a new route with the given verbs. ..." />
+            <marker date="1474291788417" expanded="true" signature="5263:5365" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="5374:5550" placeholder=" Register an array of controllers with wildcard routing. ..." />
+            <marker date="1474291788417" expanded="true" signature="5604:5732" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="5666:5725" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="5741:5970" placeholder=" Route a controller to a URI with wildcard routing. ..." />
+            <marker date="1474291788417" expanded="true" signature="6035:7054" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="6365:6437" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="6528:6544" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="6846:6991" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="6888:6981" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="7063:7314" placeholder=" Register an inspected controller route. ..." />
+            <marker date="1474291788417" expanded="true" signature="7396:7826" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="7835:8025" placeholder=" Add a fallthrough route for a controller. ..." />
+            <marker date="1474291788417" expanded="true" signature="8089:8228" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="8237:8334" placeholder=" Set the unmapped global resource parameters to singular. ..." />
+            <marker date="1474291788417" expanded="true" signature="8385:8446" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="8455:8571" placeholder=" Set the global resource parameter mapping. ..." />
+            <marker date="1474291788417" expanded="true" signature="8636:8703" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="8712:8828" placeholder=" Register an array of resource controllers. ..." />
+            <marker date="1474291788417" expanded="true" signature="8878:9004" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="8939:8997" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="9013:9183" placeholder=" Route a resource to a controller. ..." />
+            <marker date="1474291788417" expanded="true" signature="9255:9598" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="9360:9458" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="9466:9530" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="9607:9710" placeholder=" Register the typical authentication routes for an application. ..." />
+            <marker date="1474291788417" expanded="true" signature="9739:10430" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="10439:10596" placeholder=" Create a route group with shared attributes. ..." />
+            <marker date="1474291788417" expanded="true" signature="10662:11052" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="11061:11185" placeholder=" Update the group stack with the given attributes. ..." />
+            <marker date="1474291788417" expanded="true" signature="11246:11436" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="11294:11385" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="11445:11562" placeholder=" Merge the given array with the last group stack. ..." />
+            <marker date="1474291788417" expanded="true" signature="11609:11685" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="11694:11823" placeholder=" Merge the given group attributes. ..." />
+            <marker date="1474291788417" expanded="true" signature="11875:12482" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="12050:12094" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="12133:12251" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="12287:12371" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="12491:12645" placeholder=" Format the uses prefix for the new group attributes. ..." />
+            <marker date="1474291788417" expanded="true" signature="12706:13021" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="12752:12945" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="13030:13179" placeholder=" Format the prefix for the new group attributes. ..." />
+            <marker date="1474291788417" expanded="true" signature="13241:13469" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="13353:13434" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="13478:13569" placeholder=" Get the prefix from the last group on the stack. ..." />
+            <marker date="1474291788417" expanded="true" signature="13612:13807" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="13660:13780" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="13816:14037" placeholder=" Add a route to the underlying route collection. ..." />
+            <marker date="1474291788417" expanded="true" signature="14096:14188" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="14197:14384" placeholder=" Create a new route instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="14446:15373" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="14763:14837" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="14873:14933" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="15227:15294" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="15382:15567" placeholder=" Create a new Route object. ..." />
+            <marker date="1474291788417" expanded="true" signature="15626:15783" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="15717:15722" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="15759:15775" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="15792:15905" placeholder=" Prefix the given URI with the last prefix. ..." />
+            <marker date="1474291788417" expanded="true" signature="15943:16048" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="16057:16247" placeholder=" Add the necessary where clauses to the route based on its initial registration. ..." />
+            <marker date="1474291788417" expanded="true" signature="16303:16491" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="16500:16639" placeholder=" Merge the group stack with the controller action. ..." />
+            <marker date="1474291788417" expanded="true" signature="16702:16817" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="16826:16948" placeholder=" Determine if the action is routing to a controller. ..." />
+            <marker date="1474291788417" expanded="true" signature="17009:17197" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="17057:17092" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="17206:17341" placeholder=" Add a controller based route action to the action array. ..." />
+            <marker date="1474291788417" expanded="true" signature="17401:18206" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="17441:17493" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="17790:17871" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="18215:18335" placeholder=" Prepend the last group uses onto the use clause. ..." />
+            <marker date="1474291788417" expanded="true" signature="18384:18551" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="18560:18712" placeholder=" Dispatch the request to the application. ..." />
+            <marker date="1474291788417" expanded="true" signature="18761:18931" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="18940:19088" placeholder=" Dispatch the request to a route and return the response. ..." />
+            <marker date="1474291788417" expanded="true" signature="19144:19754" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="19482:19545" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="19508:19544" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="19763:19956" placeholder=" Run the given route within a Stack &quot;onion&quot; instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="20033:20721" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="20379:20387" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="20423:20434" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="20467:20713" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="20501:20712" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="20560:20685" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="20730:20863" placeholder=" Gather the middleware for the given route. ..." />
+            <marker date="1474291788417" expanded="true" signature="20922:21130" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="20988:21095" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="21006:21094" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="21139:21293" placeholder=" Resolve the middleware name to a class name(s) preserving passed parameters. ..." />
+            <marker date="1474291788417" expanded="true" signature="21349:22620" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="21702:22026" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="22091:22383" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="22391:22613" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="22629:22751" placeholder=" Parse the middleware group and format it for usage. ..." />
+            <marker date="1474291788417" expanded="true" signature="22804:24044" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="22900:24011" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="23230:23400" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="23270:23358" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="23458:23525" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="23850:23925" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="24053:24205" placeholder=" Find the route matching a given request. ..." />
+            <marker date="1474291788417" expanded="true" signature="24250:24452" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="24461:24617" placeholder=" Substitute the route bindings onto the route. ..." />
+            <marker date="1474291788417" expanded="true" signature="24669:24976" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="24734:24893" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="24781:24883" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="24985:25137" placeholder=" Substitute the implicit Eloquent model bindings for the route. ..." />
+            <marker date="1474291788417" expanded="true" signature="25197:25911" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="25324:25904" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="25514:25894" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="25693:25879" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="25746:25848" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="25920:26113" placeholder=" Call the binding callback for the given key. ..." />
+            <marker date="1474291788417" expanded="true" signature="26175:26256" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="26265:26388" placeholder=" Register a route matched event listener. ..." />
+            <marker date="1474291788417" expanded="true" signature="26429:26511" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="26520:26613" placeholder=" Get all of the defined middleware short-hand names. ..." />
+            <marker date="1474291788417" expanded="true" signature="26651:26697" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="26706:26851" placeholder=" Register a short-hand name for a middleware. ..." />
+            <marker date="1474291788417" expanded="true" signature="26899:26977" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="26986:27122" placeholder=" Register a group of middleware. ..." />
+            <marker date="1474291788417" expanded="true" signature="27186:27275" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="27284:27532" placeholder=" Add a middleware to the beginning of a middleware group. ..." />
+            <marker date="1474291788417" expanded="true" signature="27600:27832" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="27720:27802" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="27841:28083" placeholder=" Add a middleware to the end of a middleware group. ..." />
+            <marker date="1474291788417" expanded="true" signature="28148:28368" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="28268:28338" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="28377:28639" placeholder=" Register a model binder for a wildcard. ..." />
+            <marker date="1474291788417" expanded="true" signature="28707:29744" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="28734:29736" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="28783:29735" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="28818:28855" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="29261:29305" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="29608:29679" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="29753:29895" placeholder=" Add a new route parameter binder. ..." />
+            <marker date="1474291788417" expanded="true" signature="29937:30115" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="29977:30044" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="30124:30256" placeholder=" Create a class based binding using the IoC container. ..." />
+            <marker date="1474291788417" expanded="true" signature="30307:30891" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="30371:30883" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="30900:31042" placeholder=" Set a global where pattern on all routes. ..." />
+            <marker date="1474291788417" expanded="true" signature="31088:31142" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="31151:31275" placeholder=" Set a group of global where patterns on all routes. ..." />
+            <marker date="1474291788417" expanded="true" signature="31317:31433" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="31373:31426" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="31442:31651" placeholder=" Create a response instance from the given value. ..." />
+            <marker date="1474291788417" expanded="true" signature="31710:32024" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="31773:31862" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="31913:31971" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="32033:32126" placeholder=" Determine if the router currently has a group stack. ..." />
+            <marker date="1474291788417" expanded="true" signature="32164:32219" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="32228:32313" placeholder=" Get the current group stack for the router. ..." />
+            <marker date="1474291788417" expanded="true" signature="32351:32397" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="32406:32552" placeholder=" Get a route parameter for the current route. ..." />
+            <marker date="1474291788417" expanded="true" signature="32603:32675" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="32684:32790" placeholder=" Get the currently dispatched route instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="32830:32875" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="32884:32990" placeholder=" Get the currently dispatched route instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="33022:33065" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="33074:33188" placeholder=" Check if a route with the given name exists. ..." />
+            <marker date="1474291788417" expanded="true" signature="33221:33285" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="33294:33369" placeholder=" Get the current route name. ..." />
+            <marker date="1474291788417" expanded="true" signature="33410:33492" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="33501:33612" placeholder=" Alias for the &quot;currentRouteNamed&quot; method. ..." />
+            <marker date="1474291788417" expanded="true" signature="33639:33839" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="33693:33809" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="33757:33799" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="33848:33970" placeholder=" Determine if the current route matches a given name. ..." />
+            <marker date="1474291788417" expanded="true" signature="34017:34109" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="34118:34195" placeholder=" Get the current route action. ..." />
+            <marker date="1474291788417" expanded="true" signature="34238:34441" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="34278:34307" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="34450:34560" placeholder=" Alias for the &quot;currentRouteUses&quot; method. ..." />
+            <marker date="1474291788417" expanded="true" signature="34589:34791" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="34643:34761" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="34709:34751" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="34800:34933" placeholder=" Determine if the current route action matches a given action. ..." />
+            <marker date="1474291788417" expanded="true" signature="34981:35048" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="35057:35161" placeholder=" Get the request currently being dispatched. ..." />
+            <marker date="1474291788417" expanded="true" signature="35203:35253" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="35262:35370" placeholder=" Get the underlying route collection. ..." />
+            <marker date="1474291788417" expanded="true" signature="35404:35446" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="35455:35590" placeholder=" Set the route collection instance. ..." />
+            <marker date="1474291788417" expanded="true" signature="35647:35873" placeholder="{...}" />
+            <marker date="1474291788417" expanded="true" signature="35691:35770" placeholder="..." />
+            <marker date="1474291788417" expanded="true" signature="35882:35956" placeholder=" Get the global &quot;where&quot; patterns. ..." />
+            <marker date="1474291788417" expanded="true" signature="35992:36036" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1474291407271" expanded="false" signature="49:129" placeholder="..." />
+            <marker date="1474291407271" expanded="true" signature="174:812" placeholder="{...}" />
+            <marker date="1474291407271" expanded="true" signature="183:606" placeholder="..." />
+            <marker date="1474291407271" expanded="true" signature="643:726" placeholder=" Create a new password controller instance. ..." />
+            <marker date="1474291407271" expanded="true" signature="762:810" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4479769">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding>
+            <marker date="1474291788404" expanded="false" signature="42:131" placeholder="..." />
+            <marker date="1474291788404" expanded="true" signature="158:2423" placeholder="{...}" />
+            <marker date="1474291788404" expanded="true" signature="168:251" placeholder=" The middleware registered on the controller. ..." />
+            <marker date="1474291788404" expanded="true" signature="294:374" placeholder=" The router instance. ..." />
+            <marker date="1474291788404" expanded="true" signature="415:604" placeholder=" Register middleware on the controller. ..." />
+            <marker date="1474291788404" expanded="true" signature="671:794" placeholder="{...}" />
+            <marker date="1474291788404" expanded="true" signature="803:891" placeholder=" Get the middleware assigned to the controller. ..." />
+            <marker date="1474291788404" expanded="true" signature="929:975" placeholder="{...}" />
+            <marker date="1474291788404" expanded="true" signature="984:1071" placeholder=" Get the router instance. ..." />
+            <marker date="1474291788404" expanded="true" signature="1112:1156" placeholder="{...}" />
+            <marker date="1474291788404" expanded="true" signature="1165:1281" placeholder=" Set the router instance. ..." />
+            <marker date="1474291788404" expanded="true" signature="1336:1383" placeholder="{...}" />
+            <marker date="1474291788404" expanded="true" signature="1392:1573" placeholder=" Execute an action on the controller. ..." />
+            <marker date="1474291788404" expanded="true" signature="1628:1708" placeholder="{...}" />
+            <marker date="1474291788404" expanded="true" signature="1717:1928" placeholder=" Handle calls to missing methods on the controller. ..." />
+            <marker date="1474291788404" expanded="true" signature="1982:2067" placeholder="{...}" />
+            <marker date="1474291788404" expanded="true" signature="2076:2280" placeholder=" Handle calls to missing methods on the controller. ..." />
+            <marker date="1474291788404" expanded="true" signature="2331:2421" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.867052">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1474291407303" expanded="true" signature="15:3527" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="23:447" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="470:533" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="543:1234" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="1255:1459" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="1274:1353" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="1375:1452" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="1469:2159" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="2183:2409" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="2204:2289" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="2301:2404" placeholder="//..." />
+            <marker date="1474291407303" expanded="true" signature="2419:3310" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="3334:3523" placeholder="..." />
+            <marker date="1474291407303" expanded="true" signature="3355:3516" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72254336">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <marker date="1474291407273" expanded="true" signature="113:1462" placeholder="{...}" />
+            <marker date="1474291407273" expanded="true" signature="123:290" placeholder=" The application's global HTTP middleware stack. ..." />
+            <marker date="1474291407273" expanded="true" signature="322:406" placeholder="..." />
+            <marker date="1474291407273" expanded="true" signature="417:498" placeholder=" The application's route middleware groups. ..." />
+            <marker date="1474291407273" expanded="true" signature="536:956" placeholder="..." />
+            <marker date="1474291407273" expanded="true" signature="555:889" placeholder="..." />
+            <marker date="1474291407273" expanded="true" signature="911:949" placeholder="..." />
+            <marker date="1474291407273" expanded="true" signature="967:1120" placeholder=" The application's route middleware. ..." />
+            <marker date="1474291407273" expanded="true" signature="1157:1458" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03612717">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <marker date="1474294811722" expanded="false" signature="50:149" placeholder="..." />
+            <marker date="1474294811722" expanded="true" signature="179:1425" placeholder="{...}" />
+            <marker date="1474294811722" expanded="true" signature="189:289" placeholder=" The view factory implementation. ..." />
+            <marker date="1474294811722" expanded="true" signature="321:454" placeholder=" Create a new error binder instance. ..." />
+            <marker date="1474294811722" expanded="true" signature="507:548" placeholder="{...}" />
+            <marker date="1474294811722" expanded="true" signature="557:707" placeholder=" Handle an incoming request. ..." />
+            <marker date="1474294811722" expanded="true" signature="761:1423" placeholder="{...}" />
+            <marker date="1474294811722" expanded="true" signature="1045:1131" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/css-selector/Tests/XPath/Fixtures/lang.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1474291808001" expanded="true" signature="5:315" placeholder="..." />
+            <marker date="1474291808001" expanded="true" signature="265:307" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/themes/clean-blog/pages/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9768786">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding>
+            <marker date="1474294199645" expanded="true" signature="60:1781" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="119:657" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="255:646" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="527:612" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="693:1213" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="832:1202" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="1080:1168" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="1244:1377" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="1287:1366" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="1400:1707" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="1443:1696" placeholder="..." />
+            <marker date="1474294199645" expanded="true" signature="1502:1583" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state vertical-scroll-proportion="2.1936417">
+          <caret line="114" column="32" selection-start-line="114" selection-start-column="32" selection-end-line="114" selection-end-column="32" />
+          <folding>
+            <marker date="1474291788243" expanded="false" signature="50:148" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="174:5901" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="209:303" placeholder=" Show the application login form. ..." />
+            <marker date="1474291788243" expanded="true" signature="336:387" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="396:490" placeholder=" Show the application login form. ..." />
+            <marker date="1474291788243" expanded="true" signature="528:770" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="686:727" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="779:933" placeholder=" Handle a login request to the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="983:1034" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="1043:1197" placeholder=" Handle a login request to the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="1243:2482" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="1695:1809" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="1964:2049" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="2355:2417" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="2491:2614" placeholder=" Validate the user login request. ..." />
+            <marker date="1474291788243" expanded="true" signature="2671:2807" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="2702:2799" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="2713:2798" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="2816:3011" placeholder=" Send the response after the user was authenticated. ..." />
+            <marker date="1474291788243" expanded="true" signature="3093:3406" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="3125:3183" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3238:3338" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3415:3565" placeholder=" Get the failed login response instance. ..." />
+            <marker date="1474291788243" expanded="true" signature="3632:3871" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="3697:3747" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3774:3863" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3775:3862" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="3880:3952" placeholder=" Get the failed login message. ..." />
+            <marker date="1474291788243" expanded="true" signature="4001:4161" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="4170:4320" placeholder=" Get the needed authorization credentials from the request. ..." />
+            <marker date="1474291788243" expanded="true" signature="4378:4457" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="4466:4564" placeholder=" Log the user out of the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="4598:4642" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="4651:4749" placeholder=" Log the user out of the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="4780:4950" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="4959:5018" placeholder=" Get the guest middleware for the application. ..." />
+            <marker date="1474291788243" expanded="true" signature="5058:5158" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="5167:5262" placeholder=" Get the login username to be used by the controller. ..." />
+            <marker date="1474291788243" expanded="true" signature="5300:5391" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="5400:5499" placeholder=" Determine if the class is using the ThrottlesLogins trait. ..." />
+            <marker date="1474291788243" expanded="true" signature="5554:5677" placeholder="{...}" />
+            <marker date="1474291788243" expanded="true" signature="5585:5669" placeholder="..." />
+            <marker date="1474291788243" expanded="true" signature="5686:5781" placeholder=" Get the guard to be used during authentication. ..." />
+            <marker date="1474291788243" expanded="true" signature="5817:5899" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0939306">
+          <caret line="98" column="61" selection-start-line="98" selection-start-column="53" selection-end-line="98" selection-end-column="61" />
+          <folding>
+            <marker date="1474291788413" expanded="false" signature="42:121" placeholder="..." />
+            <marker date="1474291788413" expanded="true" signature="139:5768" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="149:242" placeholder=" The URL generator instance. ..." />
+            <marker date="1474291788413" expanded="true" signature="279:365" placeholder=" The session store instance. ..." />
+            <marker date="1474291788413" expanded="true" signature="400:534" placeholder=" Create a new Redirector instance. ..." />
+            <marker date="1474291788413" expanded="true" signature="593:644" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="653:802" placeholder=" Create a new redirect response to the &quot;home&quot; route. ..." />
+            <marker date="1474291788413" expanded="true" signature="844:924" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="933:1120" placeholder=" Create a new redirect response to the previous location. ..." />
+            <marker date="1474291788413" expanded="true" signature="1177:1300" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="1309:1490" placeholder=" Create a new redirect response to the current URI. ..." />
+            <marker date="1474291788413" expanded="true" signature="1550:1647" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="1656:1926" placeholder=" Create a new redirect response, while putting the current URL in the session. ..." />
+            <marker date="1474291788413" expanded="true" signature="2007:2152" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="2161:2424" placeholder=" Create a new redirect response to the previously intended location. ..." />
+            <marker date="1474291788413" expanded="true" signature="2517:2655" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="2664:2906" placeholder=" Create a new redirect response to the given path. ..." />
+            <marker date="1474291788413" expanded="true" signature="2984:3119" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="3128:3356" placeholder=" Create a new redirect response to an external URL (no validation). ..." />
+            <marker date="1474291788413" expanded="true" signature="3420:3496" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="3505:3722" placeholder=" Create a new redirect response to the given HTTPS path. ..." />
+            <marker date="1474291788413" expanded="true" signature="3788:3858" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="3867:4113" placeholder=" Create a new redirect response to a named route. ..." />
+            <marker date="1474291788413" expanded="true" signature="4197:4324" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="4333:4586" placeholder=" Create a new redirect response to a controller action. ..." />
+            <marker date="1474291788413" expanded="true" signature="4672:4801" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="4810:5003" placeholder=" Create a new redirect response. ..." />
+            <marker date="1474291788413" expanded="true" signature="5069:5339" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="5181:5241" placeholder="..." />
+            <marker date="1474291788413" expanded="true" signature="5348:5448" placeholder=" Get the URL generator instance. ..." />
+            <marker date="1474291788413" expanded="true" signature="5488:5533" placeholder="{...}" />
+            <marker date="1474291788413" expanded="true" signature="5542:5663" placeholder=" Set the active session store. ..." />
+            <marker date="1474291788413" expanded="true" signature="5719:5766" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20798898">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7116279">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state vertical-scroll-proportion="1.498555">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding>
+            <marker date="1474296322805" expanded="false" signature="49:221" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="262:2373" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="271:706" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="775:866" placeholder=" Where to redirect users after login / registration. ..." />
+            <marker date="1474296322805" expanded="true" signature="964:1053" placeholder=" Create a new authentication controller instance. ..." />
+            <marker date="1474296322805" expanded="true" signature="1089:1333" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="1388:1573" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="1435:1505" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="1581:1741" placeholder=" Get a validator for an incoming registration request. ..." />
+            <marker date="1474296322805" expanded="true" signature="1789:2011" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="1827:2003" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="1835:2002" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="2020:2143" placeholder=" Create a new user instance after a valid registration. ..." />
+            <marker date="1474296322805" expanded="true" signature="2188:2371" placeholder="{...}" />
+            <marker date="1474296322805" expanded="true" signature="2223:2363" placeholder="..." />
+            <marker date="1474296322805" expanded="true" signature="2224:2362" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25289017">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <marker date="1474296322799" expanded="true" signature="8:129" placeholder="..." />
+            <marker date="1474296322799" expanded="true" signature="145:288" placeholder="..." />
+            <marker date="1474296322799" expanded="true" signature="178:287" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/framework/sessions/050684464d167ec8e3e9a8a8496aee891d93a38c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="80" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="80" />
           <folding />
         </state>
       </provider>

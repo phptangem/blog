@@ -38,11 +38,19 @@ class AuthController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('guest', ['except' => 'logout']);
+        $this->middleware($this->guestMiddleware(), ['except' => 'logout']);
         $this->loginView     = config('theme.default.pages').'.auth.login';
         $this->registerView  = config('theme.default.pages').'.auth.register';
     }
 
+    protected function authenticated($request, $user)
+    {
+        if($request->has('redirectTo')){
+            $this->redirectTo = $request->get('redirectTo');
+        }
+
+        return redirect()->intended($this->redirectPath());
+    }
     /**
      * Get a validator for an incoming registration request.
      *
